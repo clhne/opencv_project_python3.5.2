@@ -1,2 +1,2 @@
 # OpenCV Project
-Just for Learning Opencv and applications. 
+Just for Learning OpenCV and applications. 
