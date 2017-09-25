@@ -5,7 +5,6 @@ import numpy as np
 img = cv2.imread("imggroup.jpg")
 cv2.namedWindow("image group member")
 cv2.imshow("image group member",img)
-
 img3 = np.random.random((600, 800, 3))
 
 while 1:
